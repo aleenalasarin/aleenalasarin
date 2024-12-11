@@ -12,7 +12,7 @@ I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion f
 - **Bachelor of Computer Applications (BCA)** - Kannur University
 - **Big Data Analytics and Data Science Certification** - Luminar Technolab, Kochi  
   *Tools: Hadoop, Spark, Power BI, Python, OpenCV, TensorFlow*
-- **Final Year Project** - Completed a web project for online blood banking using Django and XAMPP at BTrac Kannur.
+- **Web Development Certification** -  BTrac Kannur
 
 ---
 
