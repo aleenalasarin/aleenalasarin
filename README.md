@@ -9,10 +9,10 @@
 I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion for Data Science, Machine Learning, and Full-Stack Development. I love leveraging data and algorithms to solve real-world problems and create meaningful insights.
 
 ### 🎓 Education
+- **Bachelor of Computer Applications (BCA)** - Kannur University
 - **Big Data Analytics and Data Science Certification** - Luminar Technolab, Kochi  
   *Tools: Hadoop, Spark, Power BI, Python, OpenCV, TensorFlow*
-
-- **12th Grade** - Completed a web project for online blood banking using Django and XAMPP.
+- **Final Year Project** - Completed a web project for online blood banking using Django and XAMPP at BTrac Kannur.
 
 ---
 
@@ -46,6 +46,15 @@ I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion f
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleena-lasarin/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aleena-lasarin)
+
+---
+
+### 🌟 Experience
+- **Data Processing Analyst Intern** - Rubrix Analytics  
+  *Tasks include report card creation, ERP login management, database data extraction, and Excel-based data accuracy checks.*
+
+- **AI Intern** - Extramind Technologies  
+  *Contributed to building an AI-driven resume builder and a business-oriented chatbot using FastAPI.*
 
 ---
 
