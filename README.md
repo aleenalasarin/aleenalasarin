@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Aleena Lasarin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aleena--lasarin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aleena-lasarin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aleena--lasarin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aleena-lasarin-38239728b)
 [![Gmail](https://img.shields.io/badge/Gmail-aleenalasarin%40gmail.com-red?style=flat&logo=gmail)](mailto:aleenalasarin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-aleena--lasarin-black?style=flat&logo=github)](https://github.com/aleena-lasarin)
+[![GitHub](https://img.shields.io/badge/GitHub-aleena--lasarin-black?style=flat&logo=github)](https://github.com/aleenalasarin)
 
 ## About Me 🚀
 
@@ -44,7 +44,7 @@ I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion f
 ---
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleena-lasarin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleena-lasarin-38239728b)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aleena-lasarin)
 
 ---
@@ -67,7 +67,7 @@ I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion f
 
 ### 📢 Let's Connect!
 - 📧 Email: aleenalasarin@gmail.com
-- 📞 Phone: +91-XXXXXXXXXX
+- 📞 Phone: +91-9778001065
 
 ---
 
@@ -79,4 +79,4 @@ I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion f
 
 ---
 
-🌟 From [aleena-lasarin](https://github.com/aleena-lasarin)
+🌟 From [aleena-lasarin](https://github.com/aleenalasarin)
