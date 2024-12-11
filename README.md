@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 
-I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion for Data Science, Machine Learning, and Full-Stack Development. I love leveraging data and algorithms to solve real-world problems and create meaningful insights.
+I'm a Data Processing Analyst intern at Rubrix Analytics with a strong passion for Data Science, Machine Learning, and AI Development. I love leveraging data and algorithms to solve real-world problems and create meaningful insights.
 
 ### 🎓 Education
 - **Bachelor of Computer Applications (BCA)** - Kannur University
